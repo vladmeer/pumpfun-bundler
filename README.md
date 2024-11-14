@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is the best, fastest, and most efficient self-bundling script for PumpFun, allowing you to create a token and buy tokens with your own 2 buyers in one single bundle.
+This is the best, fastest, and most efficient self-bundling script for PumpFun, allowing you to create a token and buy tokens with your own 20 different wallets in one single bundle.
 
 ## Installation
 
@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Pumpfun bundler V2
 
-I made pumpfun bundler v2 
+I made pumpfun bundler version 2 
 Create and buy with 20 wallets in a single bundle
 Example:
 https://explorer.jito.wtf/bundle/28d842bef7c919cee00798cee05bb15616bdf96574a8428a27b81c71252342e0
