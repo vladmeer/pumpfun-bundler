@@ -1,4 +1,4 @@
-# Pumpfun Bundler README
+# Pumpfun Bundler
 
 ## Overview
 
