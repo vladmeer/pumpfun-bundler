@@ -5,7 +5,6 @@
 This is the best, fastest, and most efficient self-bundling script for PumpFun, allowing you to create a token and buy tokens with your own 20 different wallets in one single bundle.
 
 ## Installation
-
 `
 npm i pumpdotfun-sdk
 `
