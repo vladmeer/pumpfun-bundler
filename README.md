@@ -19,7 +19,7 @@ To launch your token on Pumpfun site, edit the metadata as desired.
     const metadata = {
       "name": "B@mbi",
       "symbol": "Bam",
-      "description": "Bambi token",
+      "description": "Bambi's token",
       "image": "./upload/img.jpg",
       "showName": true,
       "createdOn": "https://pump.fun",
