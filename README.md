@@ -41,7 +41,6 @@ You can check token launch and bundling in this link:
 
 The `PumpDotFunSDK` class provides methods to interact with the PumpFun protocol. Below are the method signatures and their descriptions.
 
-
 #### createAndBuy
 
 ```typescript
