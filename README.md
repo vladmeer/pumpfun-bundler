@@ -99,3 +99,6 @@ https://explorer.jito.wtf/bundle/28d842bef7c919cee00798cee05bb15616bdf96574a8428
 
 ### Telegram: [Vladmeer](https://t.me/vladmeer67)   
 https://t.me/vladmeer67
+
+### Twitter: [Vladmeer](https://x.com/vladmeer67)   
+https://x.com/vladmeer67
