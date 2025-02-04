@@ -17,6 +17,7 @@ export function toCreateEvent(event: CreateEvent): CreateEvent {
   };
 }
 
+
 export function toCompleteEvent(event: CompleteEvent): CompleteEvent {
   return {
     user: new PublicKey(event.user),
