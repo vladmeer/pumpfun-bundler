@@ -18,7 +18,7 @@ export class AMM {
         public realSolReserves: bigint,
         public realTokenReserves: bigint,
         public initialVirtualTokenReserves: bigint
-    ) {}
+    ) {} 
 
     static fromGlobalAccount(global: GlobalAccount): AMM {
         return new AMM(
