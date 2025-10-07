@@ -95,6 +95,13 @@ Create and buy with 20 wallets in a single bundle
 Example:
 https://explorer.jito.wtf/bundle/28d842bef7c919cee00798cee05bb15616bdf96574a8428a27b81c71252342e0
 
+## Pumpfun bundler V3
+
+###u Update code with new IDL
+Generate 20 wallets and run the buy action for each. Use the menu to advance through the steps manually.
+Example:
+https://explorer.jito.wtf/bundle/97408c8ebf1907b799041e5e78dda2c3bebdc7119197beb2dd62b0c7d3d4639e
+
 # 👤 Author
 
 ### Telegram: [Vladmeer](https://t.me/vladmeer67)   
